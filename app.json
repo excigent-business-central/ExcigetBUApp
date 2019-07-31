@@ -1,0 +1,26 @@
+{
+  "id": "0b7a273d-1611-4e50-92fc-5867719519cc",
+  "name": "AL-master",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://AL-master.com/help/",
+  "showMyCode": true,
+  "runtime": "3.2"
+}
